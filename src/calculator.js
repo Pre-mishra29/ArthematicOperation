@@ -27,7 +27,7 @@ function Calculator() {
   };
    return(
     <div>
-      <h2>Simple calculator</h2>
+      <h2> calculator</h2>
       <input
       type="number"
       value={num1}
